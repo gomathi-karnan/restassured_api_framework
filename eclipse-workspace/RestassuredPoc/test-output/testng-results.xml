@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4763" started-at="2019-12-10T10:12:57Z" finished-at="2019-12-10T10:13:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4763" started-at="2019-12-10T10:12:57Z" finished-at="2019-12-10T10:13:02Z">
+      <class name="com.demo.ApiTestScripts.ApiRequestDemo">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.demo.ApiTestScripts.ApiRequestDemo@184f6be2]" name="test" is-config="true" duration-ms="470" started-at="2019-12-10T15:42:57Z" finished-at="2019-12-10T15:42:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="deleteRequestDemo()[pri:0, instance:com.demo.ApiTestScripts.ApiRequestDemo@184f6be2]" name="deleteRequestDemo" duration-ms="2259" started-at="2019-12-10T15:42:57Z" finished-at="2019-12-10T15:43:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteRequestDemo -->
+        <test-method status="PASS" signature="getRequestDemo()[pri:0, instance:com.demo.ApiTestScripts.ApiRequestDemo@184f6be2]" name="getRequestDemo" duration-ms="376" started-at="2019-12-10T15:43:00Z" finished-at="2019-12-10T15:43:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequestDemo -->
+        <test-method status="PASS" signature="postRequestDemo()[pri:0, instance:com.demo.ApiTestScripts.ApiRequestDemo@184f6be2]" name="postRequestDemo" duration-ms="668" started-at="2019-12-10T15:43:00Z" finished-at="2019-12-10T15:43:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postRequestDemo -->
+        <test-method status="PASS" signature="putRequestDemo()[pri:0, instance:com.demo.ApiTestScripts.ApiRequestDemo@184f6be2]" name="putRequestDemo" duration-ms="712" started-at="2019-12-10T15:43:01Z" finished-at="2019-12-10T15:43:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putRequestDemo -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.demo.ApiTestScripts.ApiRequestDemo@184f6be2]" name="endTest" is-config="true" duration-ms="260" started-at="2019-12-10T15:43:01Z" finished-at="2019-12-10T15:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.demo.ApiTestScripts.ApiRequestDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
